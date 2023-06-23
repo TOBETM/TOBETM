@@ -1,11 +1,36 @@
-<h1 align="center">Hi 👋, I'm Tobias Nevanael Taas</h1>
-<h3 align="center">A Junior Software Developer</h3>
+# Hello, World! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tobetm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tobetm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tobetm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tobetm" height="30" width="40" /></a>
-</p>
+Welcome to my GitHub profile! I'm Tobias Nevanael Taas, a junior software developer who loves to explore the world of technology and create innovative solutions. Here you'll find a glimpse into my coding journey, projects, and contributions. So, grab a cup of ☕️ and let's dive into the realm of code!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## About Me
+
+I am a full-stack developer with a focus on web development. Currently, my tech stack revolves around PHP, Laravel, HTML5, and CSS with Tailwind CSS. I enjoy building robust and scalable web applications using these technologies. However, I believe in constantly expanding my skill set and exploring new technologies.
+
+## 🌟 What's New?
+
+I'm excited to share that I'm embarking on a new learning journey with C# and .NET. I'm eager to dive into the world of Microsoft technologies and leverage the power of C# and the .NET framework to build amazing applications. I believe that this transition will broaden my horizons and allow me to tackle a wider range of projects.
+
+## 🚀 My Projects
+
+I will be updating my project portfolio with exciting C# and .NET projects soon, so stay tuned!
+
+## 💻 Tech Stack
+
+Here are the technologies and tools that I currently work with:
+
+- **Programming Languages**: PHP, C#
+- **Frameworks**: Laravel, .NET
+- **Front-End**: HTML5, CSS, Tailwind CSS
+- **Databases**: MySQL, SQL Server
+- **Version Control**: Git, GitHub
+
+As I explore C# and .NET, my tech stack will expand to include additional tools and technologies.
+
+## 🌐 Get in Touch
+
+I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through any of the following platforms:
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tobias-taas/)
+- Email: [Your Email](mailto:tobiasnevanael@gmail.com)
+
+Let's connect, collaborate, and learn together as we explore the world of web development and beyond!
