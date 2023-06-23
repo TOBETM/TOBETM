@@ -30,7 +30,7 @@ As I explore C# and .NET, my tech stack will expand to include additional tools 
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through any of the following platforms:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tobias-taas/)
-- Email: [Your Email](mailto:tobiasnevanael@gmail.com)
+- LinkedIn: [Tobias Nevanael Taas](https://www.linkedin.com/in/tobias-taas/)
+- Email: [Tobias Nevanael Taas](mailto:tobiasnevanael@gmail.com)
 
 Let's connect, collaborate, and learn together as we explore the world of web development and beyond!
