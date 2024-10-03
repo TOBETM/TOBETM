@@ -18,11 +18,4 @@ I'm a 5th-semester junior studying Software Engineering, with a passion for solv
 ![](https://github-contributor-stats.vercel.app/api?username=TOBETM&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TOBETM&icon=10&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ats.vercel.app/api?username=TOBETM&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=TOBETM&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
