@@ -1,36 +1,24 @@
-# Hello, World! 👋
+# 💫 About Me:
+I'm a 5th-semester junior studying Software Engineering, with a passion for solving complex problems through code. I enjoy working on projects that challenge me to learn new technologies and improve my skills. My interests lie in full-stack development, system design, and creating efficient, user-friendly solutions. I'm always open to collaborating on projects and eager to contribute to meaningful, impactful software.
 
-Welcome to my GitHub profile! I'm Tobias Nevanael Taas, a junior software developer who loves to explore the world of technology and create innovative solutions. Here you'll find a glimpse into my coding journey, projects, and contributions. So, grab a cup of ☕️ and let's dive into the realm of code!
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tobias-taas) 
 
-I am a full-stack developer with a focus on web development. Currently, my tech stack revolves around PHP, Laravel, HTML5, and CSS with Tailwind CSS. I enjoy building robust and scalable web applications using these technologies. However, I believe in constantly expanding my skill set and exploring new technologies.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TOBETM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TOBETM&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TOBETM&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌟 What's New?
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TOBETM&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
-I'm excited to share that I'm embarking on a new learning journey with C# and .NET. I'm eager to dive into the world of Microsoft technologies and leverage the power of C# and the .NET framework to build amazing applications. I believe that this transition will broaden my horizons and allow me to tackle a wider range of projects.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TOBETM&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
-## 🚀 My Projects
+---
+[![](https://visitcount.itsvg.in/api?id=TOBETM&icon=2&color=0)](https://visitcount.itsvg.in)
 
-I will be updating my project portfolio with exciting C# and .NET projects soon, so stay tuned!
-
-## 💻 Tech Stack
-
-Here are the technologies and tools that I currently work with:
-
-- **Programming Languages**: PHP, C#
-- **Frameworks**: Laravel, .NET
-- **Front-End**: HTML5, CSS, Tailwind CSS
-- **Databases**: MySQL, SQL Server
-- **Version Control**: Git, GitHub
-
-As I explore C# and .NET, my tech stack will expand to include additional tools and technologies.
-
-## 🌐 Get in Touch
-
-I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through any of the following platforms:
-
-- LinkedIn: [Tobias Nevanael Taas](https://www.linkedin.com/in/tobias-taas/)
-- Email: [Tobias Nevanael Taas](mailto:tobiasnevanael@gmail.com)
-
-Let's connect, collaborate, and learn together as we explore the world of web development and beyond!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
